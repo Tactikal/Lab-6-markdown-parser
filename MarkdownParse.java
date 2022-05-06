@@ -1,5 +1,5 @@
 //https://howtodoinjava.com/java/io/java-read-file-to-string-examples/
-
+//(^ J ^)
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
